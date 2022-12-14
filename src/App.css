@@ -1,3 +1,5 @@
+impo
+
 .App {
   text-align: center;
 }
@@ -12,6 +14,50 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+/* .background{
+  background-color: antiquewhite;
+  padding-left: 0px;
+  display: flex;
+ margin-left: 0px;
+} */
+  .container-image{
+margin-top:10px;
+
+}
+    .image{
+      width: 250px;
+      height: 250px;
+    }
+
+    .container-title{
+      padding-left: 500px;
+      margin-top:-120px;
+    }
+
+    .container-address{
+      padding-left: 500px;
+      margin-top:-90px;
+
+    }
+    .title{
+      color: #842E1B;
+      font-size: 25px;
+      font-weight: 800;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .address{
+      color: #808000;
+      font-size: 25px;
+      font-weight: 600;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+  
+
+
+
+
+  
 
 .App-header {
   background-color: #282c34;
